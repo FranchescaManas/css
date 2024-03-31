@@ -1,0 +1,17 @@
+.card-container{
+    width: 300px;
+    height: 400px;
+    box-shadow: 5px 2px 5px 5px rgba(200, 200, 200, 0.533);
+    margin: 15px;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+.card-image{
+    width: 100%;
+}
+
+.card-details{
+    padding-left: 15px;
+    
+}
